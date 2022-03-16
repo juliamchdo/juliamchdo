@@ -2,5 +2,5 @@
 
 🎓 Acadêmica: Análise e Desenvolvimento de Sistemas - UNIVALI <br>
 💻 Iniciando estudos em Front-end <br>
-📍  Florianópolis, SC
+
 
