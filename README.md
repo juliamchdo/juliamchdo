@@ -1,5 +1,6 @@
-Olá! Eu sou a Júlia 👋
+<h1>Olá! Eu sou a Júlia 👋</h1>
 
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas
-  💻 Iniciando estudos em Front-End
-  📍  Florianópolis, SC
+🎓 Acadêmica: Análise e Desenvolvimento de Sistemas - UNIVALI <br>
+💻 Iniciando estudos em Front-end <br>
+📍  Florianópolis, SC
+
