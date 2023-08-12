@@ -38,7 +38,16 @@ ____
  <div style="display: inline_block">
  <img align="center" alt="Cypress" height="30" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
 </div>
- 
+
+
+ ## Contact me!
+
+ <div style="display: inline">
+  
+  <a href="https://www.linkedin.com/in/juliamchdo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto: juliamachado.dev@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
+
+</div>
 
  
 
