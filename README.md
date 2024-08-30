@@ -1,7 +1,7 @@
 <h1>Hi there! I'm Júlia 👋</h1>
 
 💻 Front End Developer passionate with creating and maintaining web and mobile applications, with a focus on usability and high performance.<br>
-⭐ My main focus is on Front End technologies, such as Vue.js, React, React Native, TypeScript, among others. However, I continue to explore the Back End world, including Java, Spring Boot and PostgreSQL, so that I can always improve my skills as a developer!
+⭐ My main focus is on Front End technologies, such as Vue.js, React, Angular, TypeScript, among others. However, I continue to explore the Back End world, including Java, Spring Boot and PostgreSQL, so that I can always improve my skills as a developer!
 
 My portfolio: https://julia-machado.netlify.app/#/
 ____
