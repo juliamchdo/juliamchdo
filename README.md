@@ -6,11 +6,6 @@
 My portfolio: https://julia-machado.netlify.app/#/
 ____
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliamchdo&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamchdo&layout=compact&langs_count=7&theme=synthwave"/>
-</div> 
-
 ## Languages
 
 <div style="display: inline_block">
