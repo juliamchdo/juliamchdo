@@ -1,7 +1,9 @@
 <h1>Hi there! I'm Júlia 👋</h1>
 
-💻 Front End Developer passionate with creating and maintaining web and mobile applications, with a focus on usability and high performance.<br>
-⭐ My main focus is on Front End technologies, such as Vue.js, React, Angular, TypeScript, among others. However, I continue to explore the Back End world, including Java, Spring Boot and PostgreSQL, so that I can always improve my skills as a developer!
+Front-End Developer with a passion for designing, building, and maintaining high-quality web and mobile applications, emphasizing exceptional usability, performance, and responsiveness.
+⭐ Core Expertise: Highly proficient in modern front-end technologies, including React, React Native, Next.js, TypeScript, and Sass, as well as a wide range of supporting tools and libraries to craft seamless user experiences.
+💡 While my primary focus is on React and its ecosystem, I also have hands-on experience with other popular frameworks like Vue.js and Angular 13+, showcasing my versatility and adaptability in different tech stacks.
+🚀 I thrive in dynamic environments, contributing to both individual projects and collaborative team efforts to deliver scalable, user-centric solutions.
 
 My portfolio: https://julia-machado.netlify.app/#/
 ____
@@ -14,7 +16,7 @@ ____
   <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="SASS" height="30" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img align="center" alt="JS" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
- 
+ <img align="center" alt="Angular" height="30" src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)" />
   <img align="center" alt="TS" height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
  </div>
 
@@ -33,6 +35,7 @@ ____
  ## Tests
  <div style="display: inline_block">
  <img align="center" alt="Cypress" height="30" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
+   <img align="center" alt="Jest" height="30" src="[https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)" />
 </div>
 
 
