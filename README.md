@@ -1,10 +1,10 @@
 <h1>Hi there! I'm Júlia 👋</h1>
 
-<p>Front-End Developer with a passion for designing, building, and maintaining high-quality web and mobile applications, emphasizing exceptional usability, performance, and responsiveness.</p>
+<p> Front-End Developer with 3+ years of experience, with a passion for designing, building, and maintaining high-quality web and mobile applications, emphasizing exceptional usability, performance, and responsiveness.</p>
 
-<p>⭐ Core Expertise: Highly proficient in modern front-end technologies, including React, React Native, Next.js, TypeScript, and Sass, as well as a wide range of supporting tools and libraries to craft seamless user experiences.</p>
+<p>⭐ Core Expertise: Highly proficient in modern front-end technologies, including React, React Native, TypeScript, Tailwindcss, Sass, HTML5 and CSS3 as well as a wide range of supporting tools and libraries to craft seamless user experiences.</p>
 
-<p>💡 While my primary focus is on React and its ecosystem, I also have hands-on experience with other popular frameworks like Vue.js and Angular 13+, showcasing my versatility and adaptability in different tech stacks.</p>
+<p>💡 While my primary focus is on React and its ecosystem, I also have hands-on experience with other popular technologies, such as Prisma, Node.js, Vue.js 3, showcasing my versatility and adaptability in different tech stacks.</p>
 
 <p>🚀 I thrive in dynamic environments, contributing to both individual projects and collaborative team efforts to deliver scalable, user-centric solutions.</p>
 
